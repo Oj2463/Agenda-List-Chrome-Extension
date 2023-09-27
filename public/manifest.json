@@ -1,10 +1,10 @@
 {
-  "name":"To-Do List App",
-  "description":"todolist",
+  "name":"Agenda List App",
+  "description":"agendalist",
   "version":"1.0",
   "manifest_version": 3,
   "action":{
     "default_popup": "index.html",
-    "default_icon": "todo.png"
+    "default_icon": "clipboard-check (1).png"
     }
 }
